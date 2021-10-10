@@ -1,0 +1,33 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    color: #2C3E50;
+}
+
+h2{
+    text-align: center;
+    color: #58ade3;
+}
+
+.first{
+    float:left 
+}
+
+.para1{
+    float:left; 
+    width: 55%
+}
+
+.img1{
+    float:right; 
+    display:block; 
+    width: 35%
+}
+
+.img2{
+    width: 550px;
+    height: 250px;
+}
+
+.img3{
+    width: 350px;
+}
